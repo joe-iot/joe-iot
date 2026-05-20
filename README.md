@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🔐 SynCryptAI
 
-<!--
-**joe-iot/joe-iot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Private AI Operating System
+**Your data. Your machine. Your AI. Nobody else's business.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building
+
+A complete private AI OS running on Mac Mini M4.
+No cloud. No compromise. Everything stays home.
+
+```
+🤖 Local AI      — Qwen, Gemma, DeepSeek on Mac Mini
+☁️ Private Cloud  — Nextcloud (files, contacts, calendar)
+📱 Telegram Bot   — control everything from your phone
+🔐 Encrypted      — AES-256-GCM vault
+👆 Biometric      — fingerprint authentication
+📡 Zero Cloud     — Tailscale VPN, no external servers
+```
+
+---
+
+## Tech Stack
+
+```
+Node.js  |  Docker  |  Telegram Bot API  |  SQLite
+Nextcloud  |  Tailscale  |  Ollama  |  Whisper
+AES-256-GCM  |  PBKDF2  |  Mac Mini M4
+```
+
+---
+
+## 🌐 Links
+
+- 🔗 [syncryptai.com](https://syncryptai.com)
+- 📺 [YouTube @syncryptai](https://youtube.com/@syncryptai)
+- 📧 [iot.esystems@gmail.com](mailto:iot.esystems@gmail.com)
+
+---
+
+> *"You are not renting intelligence. You are owning it."*
